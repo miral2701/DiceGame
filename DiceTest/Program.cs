@@ -60,6 +60,7 @@ namespace DiceTest
             {
                 Console.WriteLine("Draw!");
             }
+
         }
 
         public static void ShowDice(int number)
